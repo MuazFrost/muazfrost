@@ -1,6 +1,6 @@
 # Halo 👋, saya MUAZ IKHWANUL
 
-<img src="https://media.giphy.com/media/hvRJCLFzObAqLgADmj/giphy.gif" width="50">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY5bmxvMmprMnB5ZzJueTBhZXdtc2JneGl5aWQzbWFka2g5NGZmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s3pho1tLLupZp1qtQB/giphy.gif" width="100">
 
 Seorang **[Peran Profesional Anda]** yang bersemangat, dengan fokus pada **[Teknologi Utama 1]**, **[Teknologi Utama 2]**, dan **[Teknologi Utama 3]**. Saya memiliki pengalaman [Jumlah] tahun dalam [Jenis Bidang/Industri].
 
