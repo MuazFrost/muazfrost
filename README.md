@@ -1,4 +1,4 @@
-# Halo 👋, saya [Nama Anda]!
+# Halo 👋, saya MUAZ IKHWANUL
 
 <img src="https://media.giphy.com/media/hvRJCLFzObAqLgADmj/giphy.gif" width="50">
 
