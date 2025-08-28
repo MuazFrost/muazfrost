@@ -1,30 +1,18 @@
-# Halo 👋, saya MUAZ IKHWANUL
+# HALLO 👑I'M MUAZ IKHWANUL👑
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY5bmxvMmprMnB5ZzJueTBhZXdtc2JneGl5aWQzbWFka2g5NGZmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s3pho1tLLupZp1qtQB/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhvdGxiYmY4amxhcjNuZzBma3M0bWpxdGthcnM3cTBjNzFqOTlzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6nV7TNao5ii3q9vW/giphy.gif" width="10000">
 
-Seorang **[Peran Profesional Anda]** yang bersemangat, dengan fokus pada **[Teknologi Utama 1]**, **[Teknologi Utama 2]**, dan **[Teknologi Utama 3]**. Saya memiliki pengalaman [Jumlah] tahun dalam [Jenis Bidang/Industri].
+# **ABOUT ME** 
 
-Saya senang membangun **[Jenis Proyek yang Anda Suka]** dan memecahkan masalah yang menarik dan kompleks. Saat ini, saya tertarik untuk berkolaborasi dalam proyek **[Topik atau Industri yang Anda Minati]** serta mencari peluang di [jenis industri atau posisi].
+A student and also a programming teahcer.I started learning about IT when I was in Community College,where I developed a strong interest in the world of technology.I started my journey by delving into various areas of IT,including systems,database development and management.As I gained more knowledge and practical experience,I found myself drawn to the practical aspects of programming,which eventually led me to specialize in this dield.
+Over time,I honed my skills and worked on various projects,leading me to earn the tittle of Programming Expert.Throughout my learning journey,I discovered the power of problem solving and logical thinking,which inspired me to not only pursue my own growth but also to help others.As a programming teacher,I am passionate about sharing mt knowledge with students and guiding them through the intricacles of coding.
 
----
+Whether it is teaching them basic programming concepts,database design or helping them build real-world applications,I enjoy making the learning process engaging and practical.Being a student and a teacher has allowed me to continue to grow,learn and contribute to an ambitious community of developers.
 
-### 🚀 Aktivitas & Statistik GitHub
+### 👋🏻*HELLO WORLD,HELLO DUNIA*👋🏻
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[nama-pengguna-github-anda]&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[nama-pengguna-github-anda]&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[nama-pengguna-github-anda]&theme=radical" alt="GitHub Streak">
-</p>
-
----
-
-### 🛠️ Keahlian & Teknologi
+### 💻 MY SKILLS
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -38,25 +26,17 @@ Saya senang membangun **[Jenis Proyek yang Anda Suka]** dan memecahkan masalah y
 
 ---
 
-### 🚀 Proyek Pilihan
+### 🏆ACHIEVEMENT 
 
-* **[Nama Proyek 1]:** [Deskripsi singkat tentang proyek ini]. [Lihat di sini](Link Repo Proyek 1)
-* **[Nama Proyek 2]:** [Deskripsi singkat tentang proyek ini]. [Lihat di sini](Link Repo Proyek 2)
-* **[Nama Proyek 3]:** [Deskripsi singkat tentang proyek ini]. [Lihat di sini](Link Repo Proyek 3)
-
----
-
-### 📈 Kontribusi GitHub Terbaru
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=[nama-pengguna-github-anda]&theme=github" alt="GitHub Activity Graph"/>
-</p>
+* **BATTLE OF HACKER APU ASEAN ONLINE 2023 |** 13th
+* **AWS DEEP RACER |** 5th
+* **CODE COMBAT [X] |** Final Round
 
 ---
 
-### 📬 Mari Terhubung
+### 📬 MARI BERHUBUNG
 
-Saya selalu terbuka untuk berdiskusi tentang teknologi, peluang baru, atau kolaborasi proyek!
+Mari berkoleborasi project!
 * **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[nama-pengguna-linkedin-anda])
 * **Portofolio/Situs Web:** [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.situswebanda.com)
 * **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[alamat-email-anda])
