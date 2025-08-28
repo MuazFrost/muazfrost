@@ -6,10 +6,7 @@
 A student and also a programming teahcer.I started learning about IT when I was in Community College,where I developed a strong interest in the world of technology.I started my journey by delving into various areas of IT,including systems,database development and management.As I gained more knowledge and practical experience,I found myself drawn to the practical aspects of programming,which eventually led me to specialize in this dield.
 Over time,I honed my skills and worked on various projects,leading me to earn the tittle of Programming Expert.Throughout my learning journey,I discovered the power of problem solving and logical thinking,which inspired me to not only pursue my own growth but also to help others.As a programming teacher,I am passionate about sharing mt knowledge with students and guiding them through the intricacles of coding.
 
-Whether it is teaching them basic programming concepts,database design or helping them build real-world applications,I enjoy making the learning process engaging and practical.Being a student and a teacher has allowed me to continue to grow,learn and contribute to an ambitious community of developers.
-
 ### 👋🏻*HELLO WORLD,HELLO DUNIA*👋🏻
-
 
 ### 💻 MY SKILLS
 
@@ -22,6 +19,9 @@ Whether it is teaching them basic programming concepts,database design or helpin
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   </p>
+
+Whether it is teaching them basic programming concepts,database design or helping them build real-world applications,I enjoy making the learning process engaging and practical.Being a student and a teacher has allowed me to continue to grow,learn and contribute to an ambitious community of developers.
+
 
 ---
 
