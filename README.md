@@ -1,4 +1,4 @@
-# HALLO 👑I'M MUAZ IKHWANUL👑
+# 🔗HALLO 👑I'M MUAZ IKHWANUL👑
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhvdGxiYmY4amxhcjNuZzBma3M0bWpxdGthcnM3cTBjNzFqOTlzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6nV7TNao5ii3q9vW/giphy.gif" width="10000">
 
