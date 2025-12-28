@@ -3,8 +3,13 @@
 
 # 🔗**ABOUT ME** 
 
-A student and also a programming teahcer.I started learning about IT when I was in Community College,where I developed a strong interest in the world of technology.I started my journey by delving into various areas of IT,including systems,database development and management.As I gained more knowledge and practical experience,I found myself drawn to the practical aspects of programming,which eventually led me to specialize in this dield.
-Over time,I honed my skills and worked on various projects,leading me to earn the tittle of Programming Expert.Throughout my learning journey,I discovered the power of problem solving and logical thinking,which inspired me to not only pursue my own growth but also to help others.As a programming teacher,I am passionate about sharing mt knowledge with students and guiding them through the intricacles of coding.
+I am a student and also a programming teacher who started venturing into the field of Information Technology since Community College. That is where my deep interest in the world of technology began to develop. My journey began with exploring various branches of IT such as computer systems, database development, and data management.
+
+As my knowledge and practical experience increased, I became increasingly interested in the practical aspects of programming. This interest led me to focus fully on this field until I finally chose to specialize as a programmer. Through involvement in various projects, I managed to hone my skills and subsequently gained recognition as a Programming Expert.
+
+Throughout this learning journey, I realized how important problem-solving and logical thinking skills are in the world of technology. This realization not only motivated me to continue improving my own skills, but also inspired me to help others understand the world of programming.
+
+As a programming teacher, I am passionate about sharing knowledge and guiding students through the ins and outs of coding. My goal is to make programming easier to understand, more fun, and more relevant to real-world needs.
 
 ### 👋🏻*HELLO WORLD,HELLO DUNIA*👋🏻
 
