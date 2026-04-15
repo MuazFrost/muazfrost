@@ -42,7 +42,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 
 Mari berkoleborasi project!
 * **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[nama-pengguna-linkedin-anda])
-* **Portofolio/Situs Web:** [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.situswebanda.com)
+* **Portofolio/Situs Web:** [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muazprofile.netlify.app/)
 * **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[alamat-email-anda])
 
 ---
