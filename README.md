@@ -30,8 +30,12 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **CODE COMBAT [X] |** Final Round
 * **ROBO SUMO 2023 |** Champions
 * **RAKSASA CTF 2023 |** Final Round
+* **CTF CYBER INTERNATIONAL 2024 |**
+* **PICO CTF |**
+* **TETCTF 2024 |**
+* **CTF BAYANG SATRIA |**
 * **ROBOCUP SOCCER |**
-* **3108 BAHTERA SIBER |** Individual
+* **3108 BAHTERA SIBER |** 8th
 * **ATUR KREATIF CTF|**
 * **CTF KEMBARA TUAH |** 8th
 * **CODE RUMBLE |** 8th
