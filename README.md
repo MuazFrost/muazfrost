@@ -26,7 +26,30 @@ Whether it is teaching them basic programming concepts,database design or helpin
 
 * **BATTLE OF HACKER APU ASEAN ONLINE 2023 |** 13th
 * **AWS DEEP RACER |** 5th
+* **SUSTAINABLE APP WARRIOR 2023 |** Champions
 * **CODE COMBAT [X] |** Final Round
+* **ROBO SUMO 2023 |** Champions
+* **RAKSASA CTF 2023 |** Final Round
+* **ROBOCUP SOCCER |**
+* **3108 BAHTERA SIBER |** Individual
+* **ATUR KREATIF CTF|**
+* **CTF KEMBARA TUAH |** 8th
+* **CODE RUMBLE |** 8th
+* **PPKOMP 2025 |** 87th
+* **PPKOMP 2026 |** 2th
+* **NETACAD RAIDERS ASEAN |**
+* **KRACKATHON 2026 |**
+* **HACKENA RAMADAN CTF |**
+* **UNI VS THREATS CTF |**
+* **RAMADHAN CHALLENGE CTF 2026 |**
+* **INTERNATIONAL HACK |** 12th
+* **MINI CTF |** 9th
+* **ICTF 2026 |** Champions
+* **NETWORK KING OF THE HILL |** 4th
+* **LIGA CTF |** Champions
+* **KADA MALAYSIA |** 
+* **UNITED STATES CYBER GAMES |** 6th
+* **NATIONAL CYBERSECURITY SUMMIT 2026 |**
 
 ---
 
