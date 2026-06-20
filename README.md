@@ -31,17 +31,16 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **ROBO SUMO 2023 |** Champions
 * **THE ACE 2026 |**
 * **RAKSASA CTF 2023 |** Final Round
-* **CTF CYBER INTERNATIONAL 2024 |**
+* **CTF CYBER INTERNATIONAL 2024 |** 2nd
 * **PICO CTF |**
 * **TETCTF 2024 |**
 * **CTF BAYANG SATRIA |**
-* **ROBOCUP SOCCER |**
+* **ROBOCUP SOCCER |** 3rd
 * **3108 BAHTERA SIBER |** 8th
 * **ATUR KREATIF CTF|**
 * **CTF KEMBARA TUAH |** 8th
 * **CODE RUMBLE |** 8th
-* **PPKOMP 2025 |** 87th
-* **PPKOMP 2026 |** 2th
+* **PPKOMP 2025 |** 131st
 * **HACK CLUB STARDANCE |** Final Round
 * **NETACAD RAIDERS ASEAN |**
 * **KRACKATHON 2026 |**
@@ -52,11 +51,12 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **INTERNATIONAL HACK |** 12th
 * **MINI CTF |** 9th
 * **ICTF 2026 |** Champions
+* **PPKOMP 2026 |** 40th
 * **LIGA CTF |** Champions
 * **KADA MALAYSIA |** 
 * **UNITED STATES CYBER GAMES |** 6th
 * **BANGOR DESIGN COMPETITION 2026 |**
-* **IT FESTIVAL 2026 |** 2th
+* **IT FESTIVAL 2026 |** 2nd
 * **JEMBER CYBER CLASH 2026 |** 12th
 * **FIT COMPETITION 2026 |** 
 * **BNCC TECHNO SCAPE 2026 |** 5th
