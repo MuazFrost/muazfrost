@@ -29,6 +29,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **SUSTAINABLE APP WARRIOR 2023 |** Champions
 * **CODE COMBAT [X] |** Final Round
 * **ROBO SUMO 2023 |** Champions
+* **THE ACE 2026 |**
 * **RAKSASA CTF 2023 |** Final Round
 * **CTF CYBER INTERNATIONAL 2024 |**
 * **PICO CTF |**
@@ -41,18 +42,25 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **CODE RUMBLE |** 8th
 * **PPKOMP 2025 |** 87th
 * **PPKOMP 2026 |** 2th
+* **HACK CLUB STARDANCE |** Final Round
 * **NETACAD RAIDERS ASEAN |**
 * **KRACKATHON 2026 |**
 * **HACKENA RAMADAN CTF |**
 * **UNI VS THREATS CTF |**
+* **DEVLAUNCH |** Champions
 * **RAMADHAN CHALLENGE CTF 2026 |**
 * **INTERNATIONAL HACK |** 12th
 * **MINI CTF |** 9th
 * **ICTF 2026 |** Champions
-* **NETWORK KING OF THE HILL |** 4th
 * **LIGA CTF |** Champions
 * **KADA MALAYSIA |** 
 * **UNITED STATES CYBER GAMES |** 6th
+* **BANGOR DESIGN COMPETITION 2026 |**
+* **IT FESTIVAL 2026 |** 2th
+* **JEMBER CYBER CLASH 2026 |** 12th
+* **FIT COMPETITION 2026 |** 
+* **BNCC TECHNO SCAPE 2026 |** 5th
+* **NETWORK KING OF THE HILL |** 4th
 * **NATIONAL CYBERSECURITY SUMMIT 2026 |**
 
 ---
