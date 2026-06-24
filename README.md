@@ -41,7 +41,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **CTF KEMBARA TUAH |** 8th
 * **CODE RUMBLE |** 8th
 * **PPKOMP 2025 |** 131st
-* **CSS BATTLE |** 20th
+* **CSS BATTLE 2025 |** 20th
 * **HACK CLUB STARDANCE |** Final Round
 * **NETACAD RAIDERS ASEAN |**
 * **KRACKATHON 2026 |**
@@ -56,7 +56,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **LIGA CTF |** Champions
 * **KADA MALAYSIA |** 
 * **UNITED STATES CYBER GAMES |** 6th
-* **CSS BATTLE |** 3rd
+* **CSS BATTLE 2026 |** 3rd
 * **BANGOR DESIGN COMPETITION 2026 |**
 * **IT FESTIVAL 2026 |** 2nd
 * **JEMBER CYBER CLASH 2026 |** 12th
