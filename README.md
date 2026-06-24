@@ -24,12 +24,11 @@ Whether it is teaching them basic programming concepts,database design or helpin
 
 # 🔗🏆**ACHIEVEMENT** 
 
+* **POLYCC DEEP RACER 2023 |** 
 * **BATTLE OF HACKER APU ASEAN ONLINE 2023 |** 13th
-* **AWS DEEP RACER |** 5th
 * **SUSTAINABLE APP WARRIOR 2023 |** Champions
 * **CODE COMBAT [X] |** Final Round
 * **ROBO SUMO 2023 |** Champions
-* **THE ACE 2026 |**
 * **RAKSASA CTF 2023 |** Final Round
 * **CTF CYBER INTERNATIONAL 2024 |** 2nd
 * **PICO CTF |**
@@ -39,12 +38,15 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **3108 BAHTERA SIBER |** 8th
 * **ATUR KREATIF CTF|**
 * **CTF KEMBARA TUAH |** 8th
+* **POLYCC DEEP RACER 2024 |** 5th 
 * **CODE RUMBLE |** 8th
 * **PPKOMP 2025 |** 131st
+* **AIBOT-VOICE COMMAND CHALLENGE 2025 |**
 * **CSS BATTLE 2025 |** 20th
 * **HACK CLUB STARDANCE |** Final Round
 * **NETACAD RAIDERS ASEAN |**
 * **KRACKATHON 2026 |**
+* **THE ACE 2026 |**
 * **HACKENA RAMADAN CTF |**
 * **UNI VS THREATS CTF |**
 * **DEVLAUNCH |** Champions
