@@ -39,9 +39,10 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **ATUR KREATIF CTF|**
 * **CTF KEMBARA TUAH |** 8th
 * **POLYCC DEEP RACER 2024 |** 5th 
-* **CODE RUMBLE |** 8th
+* **CODE RUMBLE 2024 |** 8th
 * **PPKOMP 2025 |** 131st
 * **AIBOT-VOICE COMMAND CHALLENGE 2025 |**
+* **SEKAI CTF 2025 |** 40th
 * **CSS BATTLE 2025 |** 20th
 * **HACK CLUB STARDANCE |** Final Round
 * **NETACAD RAIDERS ASEAN |**
@@ -62,6 +63,8 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **BANGOR DESIGN COMPETITION 2026 |**
 * **IT FESTIVAL 2026 |** 2nd
 * **JEMBER CYBER CLASH 2026 |** 12th
+* **SEKAI CTF 2026 |** 15th
+* **SECURIUM X CTF |** 
 * **FIT COMPETITION 2026 |** 
 * **BNCC TECHNO SCAPE 2026 |** 5th
 * **NETWORK KING OF THE HILL |** 4th
