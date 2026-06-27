@@ -63,13 +63,13 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **BANGOR DESIGN COMPETITION 2026 |**
 * **IT FESTIVAL 2026 |** 2nd
 * **JEMBER CYBER CLASH 2026 |** 12th
-* **SEKAI CTF 2026 |** 15th
 * **SECURIUM X CTF |** 
 * **FIT COMPETITION 2026 |** 
 * **BNCC TECHNO SCAPE 2026 |** 5th
 * **V1T CTF 2026 |**
 * **NETWORK KING OF THE HILL |** 4th
 * **NATIONAL CYBERSECURITY SUMMIT 2026 |**
+* **SEKAI CTF 2026 |** 18th
 
 ---
 
