@@ -47,6 +47,8 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **HACK CLUB STARDANCE |** Final Round
 * **NETACAD RAIDERS ASEAN |**
 * **KRACKATHON 2026 |**
+* **RIFFHACK: BLACK MARKET BREAK-IN |** 233rd
+* **DALCTF 2026 |** 38th
 * **THE ACE 2026 |**
 * **HACKENA RAMADAN CTF |**
 * **UNI VS THREATS CTF |**
@@ -54,10 +56,19 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **RAMADHAN CHALLENGE CTF 2026 |**
 * **INTERNATIONAL HACK |** 12th
 * **MINI CTF |** 9th
+* **SAS CTF 2026 |** Final Round
+* **SECLEAF Q2 CTF 2026 |** 58th
+* **DEF CON CTF 2026 |** Final Round
 * **ICTF 2026 |** Champions
 * **PPKOMP 2026 |** 40th
 * **LIGA CTF |** Champions
-* **KADA MALAYSIA |** 
+* **TJCTF 2026 |** 162nd
+* **KADA MALAYSIA |**
+* **RAMUNCHERS CTF |** 71st
+* **BREAK THE SYNTAX CTF 2026 |** 8th
+* **KUBSTU CTF |** 42nd
+* **DAWG CTF 2026 |** 505th
+* **KALMAR CTF 2026 |** 171st
 * **UNITED STATES CYBER GAMES |** 6th
 * **CSS BATTLE 2026 |** 3rd
 * **BANGOR DESIGN COMPETITION 2026 |**
