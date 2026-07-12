@@ -61,7 +61,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **DEF CON CTF 2026 |** Final Round
 * **ICTF 2026 |** Champions
 * **PPKOMP 2026 |** 40th
-* **LIGA CTF |** Champions
+* **OWASP LIGA CTF 2026|** Champions
 * **TJCTF 2026 |** 162nd
 * **KADA MALAYSIA |**
 * **RAMUNCHERS CTF |** 71st
