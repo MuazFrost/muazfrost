@@ -76,7 +76,6 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **JEMBER CYBER CLASH 2026 |** 12th
 * **SECURIUM X CTF |** 
 * **FIT COMPETITION 2026 |** 
-* **BNCC TECHNO SCAPE 2026 |** 5th
 * **V1T CTF 2026 |** 36th
 * **NETWORK KING OF THE HILL |** 4th
 * **NATIONAL CYBERSECURITY SUMMIT 2026 |**
