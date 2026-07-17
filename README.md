@@ -80,6 +80,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **NETWORK KING OF THE HILL |** 4th
 * **NATIONAL CYBERSECURITY SUMMIT 2026 |**
 * **SEKAI CTF 2026 |** 18th
+* **INTERNATIONAL CTF CHAMPIONSHIP 2026 |**
 
 ---
 
