@@ -81,6 +81,8 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **NATIONAL CYBERSECURITY SUMMIT 2026 |**
 * **SEKAI CTF 2026 |** 18th
 * **INTERNATIONAL CTF CHAMPIONSHIP 2026 |**
+* **CGS CTF 2026 |** 6th
+
 
 ---
 
