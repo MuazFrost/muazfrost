@@ -82,6 +82,8 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **SEKAI CTF 2026 |** 18th
 * **INTERNATIONAL CTF CHAMPIONSHIP 2026 |**
 * **CGS CTF 2026 |** 6th
+* **CYBER APOCALYPSE CTF 2026:THE SALT CROWN** |
+* **COMPFEST COMPETITION |** Champions
 
 
 ---
