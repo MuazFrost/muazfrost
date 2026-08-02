@@ -85,6 +85,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **CYBER APOCALYPSE CTF 2026:THE SALT CROWN** |
 * **COMPFEST COMPETITION |** Champions
 * **ITECHNO CUP 2026 |**
+* **POLYCC AGENTIC AI LEAGUE 2026 |**
 
 ---
 
