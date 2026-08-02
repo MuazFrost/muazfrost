@@ -84,7 +84,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **CGS CTF 2026 |** 6th
 * **CYBER APOCALYPSE CTF 2026:THE SALT CROWN** |
 * **COMPFEST COMPETITION |** Champions
-
+* **ITECHNO CUP 2026 |**
 
 ---
 
