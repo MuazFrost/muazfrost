@@ -71,6 +71,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **KALMAR CTF 2026 |** 171st
 * **UNITED STATES CYBER GAMES |** 6th
 * **CSS BATTLE 2026 |** 3rd
+* **DEVLEAGUE 2026 |** 
 * **BANGOR DESIGN COMPETITION 2026 |**
 * **IT FESTIVAL 2026 |** 2nd
 * **JEMBER CYBER CLASH 2026 |** 12th
