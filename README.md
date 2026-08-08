@@ -91,6 +91,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **ITECHNO CUP 2026:NATIONAL COMPETITION |**
 * **ITEC SEA 2026 |** 9th
 * **MUBA BLOCKCHAIN HACKATHON |** 5th
+* **TRIVARNA 2.0:INTERNATIONAL CAPTURE THE FLAG |**
 * **IEC STARTUP PITCHING COMPETITION 2026 |**
 * **POLYCC AGENTIC AI LEAGUE 2026 |**
 
