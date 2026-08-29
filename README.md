@@ -54,14 +54,17 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **HACKENA RAMADAN CTF |**
 * **UNI VS THREATS CTF |**
 * **DEVLAUNCH |** Champions
+* **OMNICTF 2026 |** 4th
 * **RAMADHAN CHALLENGE CTF 2026 |**
 * **INTERNATIONAL HACK |** 12th
 * **MINI CTF |** 9th
 * **SAS CTF 2026 |** Final Round
 * **SECLEAF Q2 CTF 2026 |** 58th
+* **BRONOCTF |** 3rd
 * **DEF CON CTF 2026 |** Final Round
 * **ICTF 2026 |** Champions
 * **PPKOMP 2026 |** 40th
+* **OPERATION HEIST CTF 2026 |** 17th
 * **OWASP LIGA CTF 2026|** Champions
 * **TJCTF 2026 |** 162nd
 * **KADA MALAYSIA |**
@@ -77,7 +80,8 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **IT FESTIVAL 2026 |** 2nd
 * **JEMBER CYBER CLASH 2026 |** 12th
 * **SECURIUM X CTF |** 
-* **FIT COMPETITION 2026 |** 
+* **FIT COMPETITION 2026 |**
+* **HTB CYBER APOCALYPSE 2026 |** 28th
 * **V1T CTF 2026 |** 36th
 * **NETWORK KING OF THE HILL |** 4th
 * **NATIONAL CYBERSECURITY SUMMIT 2026 |**
@@ -87,7 +91,6 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **INTERNATIONAL CTF CHAMPIONSHIP 2026 |**
 * **CGS CTF 2026 |** 6th
 * **CYBER APOCALYPSE CTF 2026:THE SALT CROWN** |
-* **COMPFEST COMPETITION |** Champions
 * **ITECHNO CUP 2026:NATIONAL COMPETITION |**
 * **ITEC SEA 2026 |** 9th
 * **MUBA BLOCKCHAIN HACKATHON |** 5th
@@ -95,6 +98,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **IEC STARTUP PITCHING COMPETITION 2026 |**
 * **KASPERSKY CTF |**
 * **POLYCC AGENTIC AI LEAGUE 2026 |**
+* **COMPFEST COMPETITION |** Champions
 
 ---
 
