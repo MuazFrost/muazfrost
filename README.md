@@ -99,7 +99,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **CYBER APOCALYPSE CTF 2026:THE SALT CROWN** | 4th
 * **POLYCC AGENTIC AI LEAGUE 2026 |**
 * **COMPFEST COMPETITION |** Champions
-* **SIBER MERDEKA |** 22nd
+* **SIBER MERDEKA:PINTASAN DIGITAL 2026 |** 22nd
 * **MINI CTF:HDM |** 13th
 * **3108 CTF:WARISAN TAKHTA |** 276th
 ---
