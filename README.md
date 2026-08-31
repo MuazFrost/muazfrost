@@ -57,7 +57,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **OMNICTF 2026 |** 4th
 * **RAMADHAN CHALLENGE CTF 2026 |**
 * **INTERNATIONAL HACK |** 12th
-* **MINI CTF |** 9th
+* **MINI CTF:PMJ |** 9th
 * **SAS CTF 2026 |** Final Round
 * **SECLEAF Q2 CTF 2026 |** 58th
 * **BRONOCTF |** 3rd
@@ -99,7 +99,9 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **KASPERSKY CTF |**
 * **POLYCC AGENTIC AI LEAGUE 2026 |**
 * **COMPFEST COMPETITION |** Champions
-
+* **SIBER MERDEKA |** 22nd
+* **MINI CTF:HDM |** 13th
+* **3108 CTF:WARISAN TAKHTA |** 276th
 ---
 
 # 🔗📬**MARI BERHUBUNG**
