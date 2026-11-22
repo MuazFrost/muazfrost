@@ -108,6 +108,7 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **IHACK 2026** |
 * **REGIONAL CODEX HACKATHON MALAYSIA |** 3rd
 * **CODE NECTION** |
+* **ASEAN-JAPAN CYBER SEA GAME 2026** | 3rd
 * **IDENTICODE CTF** | 7th
 ---
 
