@@ -104,11 +104,11 @@ Whether it is teaching them basic programming concepts,database design or helpin
 * **3108 CTF:WARISAN TAKHTA |** 276th
 * **RE:UN1ON CTF |** 35th
 * **SUNCTF 2026** |
-* **IDENTICODE CTF** | 7th
 * **COMMUNITY OSINT CTF CHAMPIONSHIP** |
 * **IHACK 2026** |
 * **REGIONAL CODEX HACKATHON MALAYSIA |** 3rd
 * **CODE NECTION** |
+* **IDENTICODE CTF** | 7th
 ---
 
 # 🔗📬**MARI BERHUBUNG**
